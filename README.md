@@ -16,15 +16,15 @@ https://mac.github.com
 
 ***Git commands***
 
-1 git --version -- To check version of git
+1) git --version -- To check version of git
 
-2 git init --intitalise empty directory
+2) git init --intitalise empty directory
 
-3 git config --global user.name "[name] 
+3)git config --global user.name "[name] 
 
   e.g git config --glbal user.ane pruthviraj.sh
   
-4 git clone 
+4)git clone 
  git clone command is used for clone existing git reposity from sever to local machine.
 
  
