@@ -28,6 +28,9 @@ e.g git config --glbal user.ane pruthviraj.sh
  
  cd <path where you want to clone and create repository
  
- git clone https://github.com/username/Devopspruthviraj.git
-
-	
+  git clone https://github.com/username/Devopspruthviraj.git
+  
+5) Setting Username and Email
+   git config --global user.name "your name"
+   git config --global user.email "mail@example.com"
+   
