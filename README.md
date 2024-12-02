@@ -18,6 +18,8 @@ https://mac.github.com
 
 1.git --version -- To check version of git
 
+2. git init -- intitalise empty directory
+
 2.git config --global user.name "[name] 
 
 e.g git config --glbal pruthviraj.sh
