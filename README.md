@@ -26,7 +26,7 @@ e.g git config --glbal user.ane pruthviraj.sh
 4)git clone 
  git clone command is used for clone existing git reposity from sever to local machine.
  
- cd  <path where you want to clone and create repository> 
+ cd <path where you want to clone and create repository> 
  
  git clone https://github.com/username/Devopspruthviraj.git
 
