@@ -6,4 +6,11 @@ Git is disrtibuted version control open source tool which is created to help dev
 **INSTALL GIT**
 
 GitHub provides desktop clients that include a graphical user
-interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios
+interface for the most common repository actions and an automatically updating command line edition of Git for advanced scenarios.
+
+GitHub for Windows
+https://windows.github.com
+
+GitHub for Mac
+https://mac.github.com
+
