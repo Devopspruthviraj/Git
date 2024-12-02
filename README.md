@@ -14,3 +14,7 @@ https://windows.github.com
 GitHub for Mac
 https://mac.github.com
 
+***Git commands***
+
+1.$ git config --global user.name "[name]
+ e.g
