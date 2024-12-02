@@ -31,6 +31,7 @@ e.g git config --glbal user.ane pruthviraj.sh
   git clone https://github.com/username/Devopspruthviraj.git
   
 5) Setting Username and Email
+6) 
    git config --global user.name "your name"
    git config --global user.email "mail@example.com"
    
