@@ -17,7 +17,7 @@ https://mac.github.com
 ***Git commands***
 
 git --version
--to check version of git
+To check version of git
 
 .$ git config --global user.name "[name]
  e.g git config --glbal pruthviraj.sh
