@@ -11,7 +11,7 @@ interface for the most common repository actions and an automatically updating c
 GitHub for Windows
 https://windows.github.com
 
-GitHub for Mac
+- + ! # GitHub for Mac
 https://mac.github.com
 
 ***Git commands***
